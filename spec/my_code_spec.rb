@@ -4,7 +4,7 @@ describe "Tests for the code!"  do
 	
 	describe "#shout" do
 		it "shouts WAHOO!" do
-			expect(shout).to eq("WAHOO")
+			expect(shout).to eq("WAHOO!")
 		end
 	end
 
